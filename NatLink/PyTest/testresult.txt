@@ -1,0 +1,153 @@
+log messages to file: .\testresult.txt
+starting unittestNatlink
+
+starting tests with threading: 1
+
+
+--------------- errors -----------------
+
+---------- testDgndictationEtc (__main__.UnittestNatlink) --------
+Traceback (most recent call last):
+  File ".\unittestNatlink.py", line 194, in setUp
+    self.lookForDragonPad()
+  File ".\unittestNatlink.py", line 244, in lookForDragonPad
+    natlink.recognitionMimic(['Start', "DragonPad"])
+MimicFailed: recognitionMimic call failed (The speech engine returned the following error: MimicNoResults)
+
+---------- testDictGram (__main__.UnittestNatlink) --------
+Traceback (most recent call last):
+  File ".\unittestNatlink.py", line 194, in setUp
+    self.lookForDragonPad()
+  File ".\unittestNatlink.py", line 244, in lookForDragonPad
+    natlink.recognitionMimic(['Start', "DragonPad"])
+MimicFailed: recognitionMimic call failed (The speech engine returned the following error: MimicNoResults)
+
+---------- testDictObj (__main__.UnittestNatlink) --------
+Traceback (most recent call last):
+  File ".\unittestNatlink.py", line 194, in setUp
+    self.lookForDragonPad()
+  File ".\unittestNatlink.py", line 244, in lookForDragonPad
+    natlink.recognitionMimic(['Start', "DragonPad"])
+MimicFailed: recognitionMimic call failed (The speech engine returned the following error: MimicNoResults)
+
+---------- testExecScript (__main__.UnittestNatlink) --------
+Traceback (most recent call last):
+  File ".\unittestNatlink.py", line 194, in setUp
+    self.lookForDragonPad()
+  File ".\unittestNatlink.py", line 244, in lookForDragonPad
+    natlink.recognitionMimic(['Start', "DragonPad"])
+MimicFailed: recognitionMimic call failed (The speech engine returned the following error: MimicNoResults)
+
+---------- testGetAllUsersEtc (__main__.UnittestNatlink) --------
+Traceback (most recent call last):
+  File ".\unittestNatlink.py", line 194, in setUp
+    self.lookForDragonPad()
+  File ".\unittestNatlink.py", line 244, in lookForDragonPad
+    natlink.recognitionMimic(['Start', "DragonPad"])
+MimicFailed: recognitionMimic call failed (The speech engine returned the following error: MimicNoResults)
+
+---------- testGrammarRecognitions (__main__.UnittestNatlink) --------
+Traceback (most recent call last):
+  File ".\unittestNatlink.py", line 194, in setUp
+    self.lookForDragonPad()
+  File ".\unittestNatlink.py", line 244, in lookForDragonPad
+    natlink.recognitionMimic(['Start', "DragonPad"])
+MimicFailed: recognitionMimic call failed (The speech engine returned the following error: MimicNoResults)
+
+---------- testNatLinkMain (__main__.UnittestNatlink) --------
+Traceback (most recent call last):
+  File ".\unittestNatlink.py", line 194, in setUp
+    self.lookForDragonPad()
+  File ".\unittestNatlink.py", line 244, in lookForDragonPad
+    natlink.recognitionMimic(['Start', "DragonPad"])
+MimicFailed: recognitionMimic call failed (The speech engine returned the following error: MimicNoResults)
+
+---------- testNestedMimics (__main__.UnittestNatlink) --------
+Traceback (most recent call last):
+  File ".\unittestNatlink.py", line 194, in setUp
+    self.lookForDragonPad()
+  File ".\unittestNatlink.py", line 244, in lookForDragonPad
+    natlink.recognitionMimic(['Start', "DragonPad"])
+MimicFailed: recognitionMimic call failed (The speech engine returned the following error: MimicNoResults)
+
+---------- testNextPrevRulesAndWords (__main__.UnittestNatlink) --------
+Traceback (most recent call last):
+  File ".\unittestNatlink.py", line 194, in setUp
+    self.lookForDragonPad()
+  File ".\unittestNatlink.py", line 244, in lookForDragonPad
+    natlink.recognitionMimic(['Start', "DragonPad"])
+MimicFailed: recognitionMimic call failed (The speech engine returned the following error: MimicNoResults)
+
+---------- testNextPrevRulesAndWordsRecursive (__main__.UnittestNatlink) --------
+Traceback (most recent call last):
+  File ".\unittestNatlink.py", line 194, in setUp
+    self.lookForDragonPad()
+  File ".\unittestNatlink.py", line 244, in lookForDragonPad
+    natlink.recognitionMimic(['Start', "DragonPad"])
+MimicFailed: recognitionMimic call failed (The speech engine returned the following error: MimicNoResults)
+
+---------- testParser (__main__.UnittestNatlink) --------
+Traceback (most recent call last):
+  File ".\unittestNatlink.py", line 194, in setUp
+    self.lookForDragonPad()
+  File ".\unittestNatlink.py", line 244, in lookForDragonPad
+    natlink.recognitionMimic(['Start', "DragonPad"])
+MimicFailed: recognitionMimic call failed (The speech engine returned the following error: MimicNoResults)
+
+---------- testPlayString (__main__.UnittestNatlink) --------
+Traceback (most recent call last):
+  File ".\unittestNatlink.py", line 194, in setUp
+    self.lookForDragonPad()
+  File ".\unittestNatlink.py", line 244, in lookForDragonPad
+    natlink.recognitionMimic(['Start', "DragonPad"])
+MimicFailed: recognitionMimic call failed (The speech engine returned the following error: MimicNoResults)
+
+---------- testRecognitionChangingRulesExclusive (__main__.UnittestNatlink) --------
+Traceback (most recent call last):
+  File ".\unittestNatlink.py", line 194, in setUp
+    self.lookForDragonPad()
+  File ".\unittestNatlink.py", line 244, in lookForDragonPad
+    natlink.recognitionMimic(['Start', "DragonPad"])
+MimicFailed: recognitionMimic call failed (The speech engine returned the following error: MimicNoResults)
+
+---------- testRecognitionMimic (__main__.UnittestNatlink) --------
+Traceback (most recent call last):
+  File ".\unittestNatlink.py", line 194, in setUp
+    self.lookForDragonPad()
+  File ".\unittestNatlink.py", line 244, in lookForDragonPad
+    natlink.recognitionMimic(['Start', "DragonPad"])
+MimicFailed: recognitionMimic call failed (The speech engine returned the following error: MimicNoResults)
+
+---------- testSelectGram (__main__.UnittestNatlink) --------
+Traceback (most recent call last):
+  File ".\unittestNatlink.py", line 194, in setUp
+    self.lookForDragonPad()
+  File ".\unittestNatlink.py", line 244, in lookForDragonPad
+    natlink.recognitionMimic(['Start', "DragonPad"])
+MimicFailed: recognitionMimic call failed (The speech engine returned the following error: MimicNoResults)
+
+---------- testTrayIcon (__main__.UnittestNatlink) --------
+Traceback (most recent call last):
+  File ".\unittestNatlink.py", line 194, in setUp
+    self.lookForDragonPad()
+  File ".\unittestNatlink.py", line 244, in lookForDragonPad
+    natlink.recognitionMimic(['Start', "DragonPad"])
+MimicFailed: recognitionMimic call failed (The speech engine returned the following error: MimicNoResults)
+
+---------- testWordFuncs (__main__.UnittestNatlink) --------
+Traceback (most recent call last):
+  File ".\unittestNatlink.py", line 194, in setUp
+    self.lookForDragonPad()
+  File ".\unittestNatlink.py", line 244, in lookForDragonPad
+    natlink.recognitionMimic(['Start', "DragonPad"])
+MimicFailed: recognitionMimic call failed (The speech engine returned the following error: MimicNoResults)
+
+---------- testWordProns (__main__.UnittestNatlink) --------
+Traceback (most recent call last):
+  File ".\unittestNatlink.py", line 194, in setUp
+    self.lookForDragonPad()
+  File ".\unittestNatlink.py", line 244, in lookForDragonPad
+    natlink.recognitionMimic(['Start', "DragonPad"])
+MimicFailed: recognitionMimic call failed (The speech engine returned the following error: MimicNoResults)
+
+--------------- failures -----------------
