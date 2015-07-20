@@ -1,0 +1,13 @@
+{
+    "aenea.enabled": false, 
+    "aenea.path": null, 
+    "dynamics.bash.enabled": false, 
+    "dynamics.css.enabled": false, 
+    "dynamics.git": true, 
+    "dynamics.git.enabled": true, 
+    "dynamics.html.enabled": false, 
+    "dynamics.javascript.enabled": false, 
+    "dynamics.python": true, 
+    "dynamics.python.enabled": false, 
+    "system.base_path": "C:\\Natlink\\Natlink\\MacroSystem"
+}
